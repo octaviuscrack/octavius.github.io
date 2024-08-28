@@ -1,4 +1,4 @@
 // scripts.js
 
 // Este archivo puede ser usado para añadir interactividad en el futuro
-console.log('Página cargada correctamente.');
+prompt('Página cargada correctamente.');
